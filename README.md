@@ -26,3 +26,7 @@ donde el usuario interactua con nuestro sistema
  - Mostrar una matriz de sangre
 
  ## :clapper: Video :clapper:
+- https://drive.google.com/drive/folders/1foUA55yAWskxT86SdhnfpmefDPXIRhGh
+
+Pido perdón por la marca de agua y por el problema del sonido, pero tambien sube el video de la camara de la defensa oral para que vean
+que esta todo en orden, por cualquier cosa avisen, estare siempre atento, se que esta en destiempo, pero la importación del video me tomo mucho rato
