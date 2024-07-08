@@ -30,3 +30,5 @@ donde el usuario interactua con nuestro sistema
 
 Pido perdón por la marca de agua y por el problema del sonido, pero tambien sube el video de la camara de la defensa oral para que vean
 que esta todo en orden, por cualquier cosa avisen, estare siempre atento, se que esta en destiempo, pero la importación del video me tomo mucho rato. Y nuevamente pido perdón por el tema del video pero no se como editar para que quede todo bien
+
+Algo que no pude decir en el video fue que termino importando todas las funciones al "Main.py"
