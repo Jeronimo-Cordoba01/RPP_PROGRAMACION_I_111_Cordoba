@@ -7,7 +7,7 @@
 
 ## :goberserk: 1° Parcial - Programación I :goberserk:
 ## :memo: Menu sobre los pacientes :memo:
-![](Menu2.png)
+![](Menu2.jpg)
 
 ## :book: Descripción :book: ##
 En el parcial nos tenemos que hacer cargo de la gestión de la clinica VIDDA
