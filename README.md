@@ -21,6 +21,8 @@ donde el usuario interactua con nuestro sistema
  - Ordenar los pacientes segun la elección 
  - Buscar un pacientes por el DNI
  - Calcular el promedio segun la elección
+ - Determinar la compatibilidad sanguinea
  - Salir del programa
+ - Mostrar una matriz de sangre
 
  ## :clapper: Video :clapper:
